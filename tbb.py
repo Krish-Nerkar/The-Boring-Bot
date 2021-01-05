@@ -13,7 +13,7 @@ from threading import Timer
 import time
 import xml.etree.ElementTree as ET
 
-TOKEN = ""
+TOKEN = "NzUwNzQ2NTI2NzQ1MTAwMzA5.X0_BMA.rzr3JdXs4MbaGfAFTPBepthI23o"
 
 bot_prefixes = ['tbb ', 'TBB ', 'Tbb ', 'tBB ']
 client = commands.Bot(command_prefix=(
